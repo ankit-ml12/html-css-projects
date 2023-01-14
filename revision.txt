@@ -1,0 +1,43 @@
+7 step to build an website:- 
+
+1. Define 
+who is it  for :- agency, owner, self  
+what website is for :- user goal (business, online marketplace, startup)
+define target audience 
+
+========================================================================
+2. Plan
+geather website content:- image, content, video 
+for bigger site:- plan the road map 
+plan for convey messege by each section 
+website personality
+
+========================================================================
+3. Scetch
+use pen paper or figma 
+
+========================================================================
+4. design and build
+design the website in brwoser using code 
+
+========================================================================
+5. test and optimise 
+test for brwoser compatibility
+test everysection 
+optimise for differet screen size
+thing about SEO  
+
+========================================================================
+6. launch
+domain name
+hosting
+deploy on the server 
+
+========================================================================
+7. maintain and update
+maintain according to brwser update
+and update content over time 
+install analytic software and change content according to user behaviour 
+update blog page regularly
+
+========================================================================
