@@ -1,0 +1,46 @@
+/*
+--01 Typography system
+
+-font size:
+ 10 / 12 / 14 / 16 / 18 / 20 / 24 / 30 / 36 / 44 / 52 / 62 / 74 / 86 / 98
+
+-font weight:
+ Default : 400
+
+- Line Height:
+ Default: 1
+ 
+--02 colors
+
+-Primary: #e67e22
+-Tint:
+-Shades:
+-Accents:
+-Greys: #555
+
+-- Image and icon
+-unplash and hero icon ui face
+
+--05 SHADOWS
+
+
+--06 BORDER-RADIUS
+
+--07 WHITESPACE
+
+-spacing system (px) 
+2 / 4 / 8 / 12 / 16 / 24 / 32 / 48 / 64 / 80 / 96 / 128 
+
+*/
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: sans-serif;
+  line-height: 1;
+  font-weight: 400;
+  color: #555;
+}
