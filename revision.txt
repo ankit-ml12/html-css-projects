@@ -61,3 +61,23 @@ bring responsive sites to life
 we first make website for laptop and then tablet and then mobile 
 
 =============================================================================================
+
+How rem and max with work 
+
+if we use width instead of max width and open web page in mobile a downside scroll bar is created. 
+which we don't want so we use max width.
+
+if viewport width go below 1000 it start reducing its width.
+==================
+
+by Default 1rem is equal to 16px.
+We can change the default value of rem in html elemnet 
+like this 
+html {
+  /* font-size: 10px; */
+  /* 10px / 16px =  0.625 =  62.5% */
+  /* percentage of user browser font size  */
+  font-size: 62.5%;
+}
+we use % because some time user make chnage in their browser font size and px can create problem for him.
+===========================================================================================================
