@@ -41,3 +41,23 @@ install analytic software and change content according to user behaviour
 update blog page regularly
 
 ========================================================================
+
+Make website responsive:- 
+
+1. fluid layout :-
+use % vh or vw instead of px 
+
+2. responsiv unit 
+user rem instead of px 
+
+3. responsive image
+use different image for different divice
+or use % for image dimention
+
+4. Media query
+bring responsive sites to life
+
+==========================================
+we first make website for laptop and then tablet and then mobile 
+
+=============================================================================================
