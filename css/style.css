@@ -13,10 +13,10 @@
 --02 colors
 
 -Primary: #e67e22
--Tint:
+-Tint: #fdf2e9
 -Shades:
 -Accents:
--Greys: #555
+-Greys: #555 #333
 
 -- Image and icon
 -unplash and hero icon ui face
@@ -38,10 +38,11 @@
   box-sizing: border-box;
 }
 html {
+  font-size: 50%;
+
   /* font-size: 10px; */
   /* 10px / 16px =  0.625 =  62.5% */
   /* percentage of user browser font size  */
-  font-size: 62.5%;
 }
 body {
   font-family: sans-serif;
@@ -49,13 +50,30 @@ body {
   font-weight: 400;
   color: #555;
 }
+.section-hero {
+  background-color: #fdf2e9;
+}
 .hero {
   max-width: 130rem;
-  display: grid;
   margin: 0 auto;
+  display: grid;
   grid-template-columns: 1fr 1fr;
+  align-items: center;
+}
+.heading-primary {
+  font-size: 5.2rem;
+  font-weight: 700;
+  line-height: 1.05;
+  color: #333;
+  letter-spacing: -0.5px;
+  margin-bottom: 3.2rem;
 }
 
+.hero-description {
+  font-size: 2rem;
+  line-height: 1.6;
+  margin-bottom: 4.8rem;
+}
 .hero-img {
   width: 100%;
 }
