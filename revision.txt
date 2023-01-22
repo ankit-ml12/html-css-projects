@@ -88,3 +88,6 @@ overflow -hidden propery hide everything which is hiding our current element
 
 ===============================
 we can use caption and figure caption for gallery 
+
+====
+inline image have space between them but block doesn't have any space
