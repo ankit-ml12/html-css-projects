@@ -126,7 +126,7 @@ body {
   margin-bottom: 1.6rem;
   letter-spacing: 0.75px;
 }
-
+.btn,
 .btn:link,
 .btn:visited {
   display: inline-block;
