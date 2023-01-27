@@ -90,4 +90,21 @@ overflow -hidden propery hide everything which is hiding our current element
 we can use caption and figure caption for gallery 
 
 ====
-inline image have space between them but block doesn't have any space
+inline image have space between them but block doesn't have any 
+
+
+
+========================================
+Breakpoint :-
+600px
+900px
+1200px
+
+
+or
+by testing 
+change when desing break down for your website
+
+
+=====================================
+meta tage of view point in html is necessary for good design 
