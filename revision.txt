@@ -108,3 +108,27 @@ change when desing break down for your website
 
 =====================================
 meta tage of view point in html is necessary for good design 
+
+=====================================
+we can select element using attribute also like this 
+
+.icon-mobile-nav[name="close-outline"]{
+  display: none;
+}
+
+when we write display to none then it does not allowed the transition
+
+so you can use this:- 
+    /* hide visibility */
+    opacity: 0;
+    /* make is unaccesisble to mouse and keyborad */
+    pointer-events: none;
+    /* hide it from screen reader */
+    visibility: hidden;
+
+
+
+    and to return them:- 
+     opacity: 1;
+    pointer-events: auto;
+    visibility: visible;

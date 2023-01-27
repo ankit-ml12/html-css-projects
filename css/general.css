@@ -50,7 +50,7 @@ default : 9px
 }
 html {
   font-size: 50%;
-
+  overflow-x: hidden;
   /* font-size: 10px; */
   /* 10px / 16px =  0.625 =  62.5% */
   /* percentage of user browser font size  */
@@ -60,6 +60,8 @@ body {
   line-height: 1;
   font-weight: 400;
   color: #555;
+  /* it only work if there is nothing in absolutoly position with body  */
+  overflow-x: hidden;
 }
 /* ============================ */
 /* GENERAL COMPONENTS */
