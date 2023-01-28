@@ -479,6 +479,9 @@
   padding: 12.8rem 0;
   border-top: 1px solid #eee;
 }
+.grid-footer {
+  grid-template-columns: 1.5fr 1.5fr 1fr 1fr 1fr;
+}
 .logo-col {
   display: flex;
   flex-direction: column;
