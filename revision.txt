@@ -132,3 +132,30 @@ so you can use this:-
      opacity: 1;
     pointer-events: auto;
     visibility: visible;
+
+
+
+    =================================================
+    to make scrolling working on the page we first add id to the section where we want to move when we click any button linked to that element 
+    and on the button inside href="#id" write like this. It well redirect you to that section when you click on the button.
+
+
+
+    ======================================================
+    the above button move the viewport to that particular section that you attached with the link.
+    but we want smooth scrolling so we add this line in our css html tag
+    scroll-behavior: smooth;
+
+    some brwoser like safari does not support this smooth scrolling property so need to implement in js .
+    =========================================================
+    .sticky {
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  width: 100%;
+}
+to make any section fixed 
+==============================================================
+//optimise your code for suffari 
+
+==============================================================
