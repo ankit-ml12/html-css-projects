@@ -159,3 +159,41 @@ to make any section fixed
 //optimise your code for suffari 
 
 ==============================================================
+:- test and optimise 
+browser :- chrome, safari, firefox,edge
+ actual mobile not only dev tools
+ optimise all image 
+fix accessibility (color contrast ratio)
+runlight house performance test 
+seo 
+
+
+
+=============================================================
+adding meta tag and facicon 
+
+before the meta width property in head 
+  <meta
+      name="description"
+      content="A healthy meal delivered to your door, every single day. The smart 365-days-per-year food subscription that will make you eat healthy again."
+    />
+
+
+    and add favicon in the head like this 
+     <link rel="icon" href="img/favicon.png" />
+
+
+//learn letter how to set for different different device .
+
+
+in case of image optimisatin learn about :- how to use webp extenttion image.
+
+
+===================================================================
+deploy on the netifly 
+just drag and drop the folder and create link and use or share with your freind.
+
+
+making the form to work using netifly
+==================================================================
+Thankyou.❤️
